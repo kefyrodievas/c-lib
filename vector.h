@@ -3,7 +3,7 @@
 
 #include <stdlib.h>
 #include <string.h>
-
+// this is incredibly shit
 #define define_list(type)                                                      \
   struct _vector;                                                              \
                                                                                \
